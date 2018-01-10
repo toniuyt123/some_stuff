@@ -1,6 +1,6 @@
 class RsasController < ApplicationController
 	def show
-		render plain: "balbal"
+		#render plain: "balbal"
 	end
 
 end
