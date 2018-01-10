@@ -1,0 +1,5 @@
+{
+  "name": "rsa_nopostgres",
+  "private": true,
+  "dependencies": {}
+}
